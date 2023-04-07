@@ -1,0 +1,4 @@
+Updating the Document.txt with Name: USER 
+User Name :
+Password :
+Email id:
