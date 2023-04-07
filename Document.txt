@@ -1,19 +1,9 @@
-****************************************************************************************************
-*************************____________________________________***************************************
-*****************************************************************************************************************
-
 Name:(User,Name)
 Email: (@)
 Password :*PASSWORD*
-
-
 SRS : System requirment specifications Document.
-
 #Requirments  # Analysis  
-
 #Model we use # Design # Implementation #Deployement 
-
 # Team we have 
-
-
 Phase 0 : Learn and Earn 
+Create a git rapo  
