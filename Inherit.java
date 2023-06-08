@@ -1,6 +1,3 @@
-//This filr will be having code for inhertance::
-//
-
 class GrandParent{
     public void method1(){
         System.out.println("Grand Parent method 1");
