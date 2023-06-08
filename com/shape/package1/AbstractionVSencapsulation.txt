@@ -1,0 +1,36 @@
+           Abstraction and encapsulation are two fundamental concepts in object-oriented programming, particularly in Java.
+           While they are related and often used together, they serve different purposes.    
+           Here are the differences between abstraction and encapsulation :
+
+1. Purpose:
+   - Abstraction focuses on hiding unnecessary details and complexity,
+     allowing you to represent the essential characteristics and behavior of an object or system.
+   - Encapsulation emphasizes bundling data and methods together as a single unit,
+     enabling data hiding and access control to ensure data integrity and security.
+
+2. Level of Focus:
+   - Abstraction focuses on the overall concept or idea of an object or system, 
+     highlighting what it does rather than how it does it.
+   - Encapsulation focuses on the implementation details and internal workings of an object or system,
+     ensuring that the data and methods are grouped together and accessed appropriately.
+
+3. Usage:
+   - Abstraction is used to define interfaces, abstract classes, and inheritance hierarchies,
+     allowing you to create generalized, reusable code structures and define contracts for subclasses.
+   - Encapsulation is used to create classes and objects, grouping related data and methods together,
+     and controlling access to the internal state of objects.
+
+4. Data Hiding:
+   - Abstraction does not inherently provide data hiding.
+     It focuses on exposing only the necessary information and behavior to the outside world,
+     but it doesn't enforce access restrictions on the underlying data.
+   - Encapsulation provides data hiding by making the internal state of an object private and exposing it only through controlled access methods 
+     (getters and setters), ensuring that the data can be accessed and modified only through the defined interfaces.
+
+5. Relationships:
+   - Abstraction is often used in combination with other object-oriented concepts like
+     inheritance and polymorphism to create hierarchies of classes and objects.
+   - Encapsulation is closely related to information hiding, modular programming, and data encapsulation.
+     It is a fundamental principle that enables the effective use of other object-oriented concepts.
+
+In summary, abstraction allows you to represent essential features and behavior while hiding unnecessary details, while encapsulation bundles data and methods together, ensuring data integrity and access control. Both concepts play crucial roles in creating modular, maintainable, and extensible software systems.
