@@ -1,0 +1,9 @@
+{
+    "firstName":"Arvind",
+    "lastName" :"Kaushik",
+    "email": "arvind@gmail.com",
+    "department": {
+        "departmentName" : "Computer Science",
+        "departmentCode" : "CS-101" 
+           }
+}
